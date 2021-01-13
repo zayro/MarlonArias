@@ -2,7 +2,6 @@
 
 | pharse os sentence | Namming |
 | ------------- | ------------- |
-
 |    Guardar listado de usuarios | saveListOfUser     |
 |    Mostrar el total del pago | showTotalPay     |
 |    Resultado de la puntuación | resultScore     |
